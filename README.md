@@ -3,5 +3,5 @@ This small program show the stats for the monty hall problem if we make a door c
 
 This is meant to be optimized to be able to process a large enough amount of iterations.
 
-##Usage : 
+## Usage : 
 `py ./MontyHall.py`
